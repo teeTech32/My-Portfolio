@@ -140,7 +140,7 @@ export const projects = [
     id: 3,
     title: "Contact Saving App",
     cat: "Mobile and Web App",
-    url: "https://contacts-frontend-livid.vercel.app/",
+    url: "https://contacts-frontend-six.vercel.app/",
     img: contact,
   },
  

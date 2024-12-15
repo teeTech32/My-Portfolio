@@ -148,7 +148,7 @@ export const projects = [
     id: 4,
     title: "Github User Fetcher",
     cat: "Mobile and Web app",
-    url: "https://github-fetcher-six.vercel.app/",
+    url: "https://github-fetcher-iota.vercel.app/",
     img: Github2,
   },
   {

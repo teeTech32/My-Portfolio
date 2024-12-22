@@ -19,6 +19,7 @@ import contact from "./assets/contact.jpg"
 import vite from './assets/vite-svgrepo-com.svg'
 import express from './assets/express.svg'
 import Ecommerce1 from './assets/Ecommer1.jpg'
+import video from './assets/video.jpg'
 
 export const tools = [
   {
@@ -153,13 +154,20 @@ export const projects = [
   },
   {
     id: 5,
+    title: "Video Player",
+    cat: "Mobile and Web App",
+    url: "https://videoplayer-theta-lime.vercel.app/",
+    img: video,
+  },
+  {
+    id: 6,
     title: "My Portfolio",
     cat: "Web Design",
     url: "",
     img: portfolio,
   },
   {
-    id: 6,
+    id: 7,
     title: "Loan Calculator",
     cat: "Mobile and Web App",
     url: "https://loan-calculator-rouge.vercel.app/",

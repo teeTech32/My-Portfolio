@@ -20,6 +20,7 @@ import vite from './assets/vite-svgrepo-com.svg'
 import express from './assets/express.svg'
 import Ecommerce1 from './assets/Ecommer1.jpg'
 import video from './assets/video.jpg'
+import device from './assets/device.jpg'
 
 export const tools = [
   {
@@ -125,20 +126,27 @@ export const skills = [
 export const projects = [
   {
     id: 1,
+    title: "Device Management Panel",
+    cat: "Web Design",
+    url: "https://device-management-panel.vercel.app/",
+    img: device,
+  },
+   {
+    id: 2,
     title: "teeWears",
     cat: "Web Design",
     url: "https://ecommerce1-orpin.vercel.app/",
     img: Ecommerce1,
   },
   {
-    id: 2,
+    id: 3,
     title: "ABC Homes and Properties",
     cat: "Web Design",
     url: "https://homes-and-properties.vercel.app/",
     img: Homes,
   },
    {
-    id: 3,
+    id: 4,
     title: "Contact Saving App",
     cat: "Mobile and Web App",
     url: "https://contacts-frontend-x4ei.onrender.com",
@@ -146,28 +154,28 @@ export const projects = [
   },
  
   {
-    id: 4,
+    id: 5,
     title: "Github User Fetcher",
     cat: "Mobile and Web app",
     url: "https://github-fetcher-iota.vercel.app/",
     img: Github2,
   },
   {
-    id: 5,
+    id: 6,
     title: "Video Player",
     cat: "Mobile and Web App",
     url: "https://videoplayer-theta-lime.vercel.app/",
     img: video,
   },
   {
-    id: 6,
+    id: 7,
     title: "My Portfolio",
     cat: "Web Design",
     url: "",
     img: portfolio,
   },
   {
-    id: 7,
+    id: 8,
     title: "Loan Calculator",
     cat: "Mobile and Web App",
     url: "https://loan-calculator-rouge.vercel.app/",

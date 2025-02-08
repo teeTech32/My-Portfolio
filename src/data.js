@@ -149,7 +149,7 @@ export const projects = [
     id: 4,
     title: "Contact Saving App",
     cat: "Mobile and Web App",
-    url: "https://contacts-frontend-x4ei.onrender.com",
+    url: "https://conta-frontend.onrender.com",
     img: contact,
   },
  

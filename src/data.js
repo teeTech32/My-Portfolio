@@ -21,6 +21,7 @@ import express from './assets/express.svg'
 import Ecommerce1 from './assets/Ecommer1.jpg'
 import video from './assets/video.jpg'
 import device from './assets/device.jpg'
+import benzoll from './assets/benzoll.jpg'
 
 export const tools = [
   {
@@ -126,12 +127,12 @@ export const skills = [
 export const projects = [
   {
     id: 1,
-    title: "Device Management Panel",
+    title: "Benzoll Supportive Desk",
     cat: "Web Design",
-    url: "https://device-management-panel.vercel.app/",
-    img: device,
+    url: "https://benzoll-frontend.onrender.com",
+    img: benzoll,
   },
-   {
+  {
     id: 2,
     title: "teeWears",
     cat: "Web Design",
@@ -148,36 +149,42 @@ export const projects = [
    {
     id: 4,
     title: "Contact Saving App",
-    cat: "Mobile and Web App",
+    cat: "Application For Andriod and Web ",
     url: "https://conta-frontend.onrender.com",
     img: contact,
   },
- 
   {
     id: 5,
     title: "Github User Fetcher",
-    cat: "Mobile and Web app",
+    cat: "Application For Andriod and Web ",
     url: "https://github-fetcher-iota.vercel.app/",
     img: Github2,
   },
   {
     id: 6,
+    title: "Device Management Panel",
+    cat: "Application For Web ",
+    url: "https://device-management-panel.vercel.app/",
+    img: device,
+  },
+  {
+    id: 7,
     title: "Video Player",
-    cat: "Mobile and Web App",
+    cat: "Application For Andriod and Web ",
     url: "https://videoplayer-theta-lime.vercel.app/",
     img: video,
   },
   {
-    id: 7,
+    id: 8,
     title: "My Portfolio",
     cat: "Web Design",
     url: "",
     img: portfolio,
   },
   {
-    id: 8,
+    id: 9,
     title: "Loan Calculator",
-    cat: "Mobile and Web App",
+    cat: "Application For Andriod and Web",
     url: "https://loan-calculator-rouge.vercel.app/",
     img: LoanC,
   },

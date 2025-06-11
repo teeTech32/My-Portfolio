@@ -14,7 +14,7 @@ function Footer() {
         <div class="w-full flex flex-col md:flex-row py-20 px-8 md:px-10 gap-10 lg:gap-20 justify-between">
           <p class="dark:text-white font-semibold text-lg">
            <MdLocationPin class="text-2xl xl:text-4xl"/> 
-           Address: Number 10 Lion Gate Junction Harmony State Langbasa Ajah-Lagos State Nigeria.
+           Address: Number 10 Lion Gate Junction Harmony Estate Langbasa Ajah Lagos State Nigeria.
           </p>
           <div class="flex flex-col md:flex-row gap-5 md:gap-20 text-md dark:text-white ">
             <a href="/#home" class="hover:text-blue-500">Home</a>

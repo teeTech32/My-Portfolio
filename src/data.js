@@ -136,7 +136,7 @@ export const projects = [
     id: 2,
     title: "Contact Saving App",
     cat: "Application For Andriod and Web ",
-    url: "https://conta-frontend.onrender.com",
+    url: "https://frontend-contact.onrender.com",
     img: contact,
   },
   {

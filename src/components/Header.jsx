@@ -3,7 +3,7 @@ import Edit from '../assets/Edit.png'
 import reactjs from '../assets/reactjs.svg'
 import javascript from '../assets/javascript.svg'
 import tailwindcss from '../assets/tailwindcss.svg'
-import FastAPI from '../assets/FastAPI.svg'
+import nextjs from '../assets/next-js.svg'
 import {toast} from 'react-toastify'
 
 function Header() {
@@ -63,7 +63,7 @@ function Header() {
           <img src={reactjs} alt='React-logo' class="top-7 left-3 2xl:left-8 md:top-20 absolute w-16 h-16 md:w-20 md:h-20"/>
           <img src={tailwindcss} alt='Javascript-logo' class="bottom-7 md:bottom-20 left-3 2xl:left-12  absolute w-20 h-20 md:w-20 md:h-20" />
           <img src={javascript} alt='TailwindCSS-logo' class="top-3 md:top-20 right-3 2xl:right-8  absolute w-16 h-16 md:w-20 md:h-20" />
-          <img src={FastAPI} alt='Fastapi-logo' class="bottom-7 md:bottom-20 right-3 2xl:right-12  absolute w-16 h-16 md:w-20 md:h-20" />
+          <img src={nextjs} alt='Fastapi-logo' class="bottom-7 md:bottom-20 right-3 2xl:right-12  absolute w-16 h-16 md:w-20 md:h-20 bg-white" />
         </div>
       </div>
 

@@ -22,11 +22,18 @@ import Ecommerce1 from './assets/Ecommer1.jpg'
 import video from './assets/video.jpg'
 import device from './assets/device.jpg'
 import benzoll from './assets/benzoll.jpg'
+import kitchen from './assets/Kitchen.jpg'
+import nextjs from './assets/next-js.svg'
+import nodejs from './assets/nodejs-icon.svg'
 
 export const tools = [
   {
     name: "React",
     icon: Reactjs,
+  },
+  {
+    name: "Nextjs",
+    icon: nextjs,
   },
   {
     name: "JavaScript",
@@ -73,6 +80,10 @@ export const tools = [
     icon: FastAPI
   },
   {
+    name: "Nodejs",
+    icon: nodejs
+  },
+  {
     name: "MongoDB",
     icon: Mongodb,
   },
@@ -89,8 +100,13 @@ export const tools = [
 export const skills = [
   {
     name: "ReactJS",
-    value: 78,
+    value: 85,
     icon: Reactjs,
+  },
+  {
+    name: "NextJS",
+    value: 78,
+    icon: nextjs,
   },
   {
     name: "JavaScript",
@@ -104,8 +120,13 @@ export const skills = [
   },
   {
     name: "TailwindCSS",
-    value: 75,
+    value: 85,
     icon: TailwindCSS
+  },
+  {
+    name: "BootstrapCSS",
+    value: 60
+    icon: bootstrap,
   },
   {
     name: "CSS3",
@@ -113,9 +134,19 @@ export const skills = [
     icon: css3,
   },
   {
+    name: "NodeJS",
+    value: 70,
+    icon: nodejs,
+  },
+  {
     name: "MongoDB",
     value: 68,
     icon: Mongodb,
+  },
+   {
+    name: "PostgreSQL",
+    value: 68
+    icon: postgres,
   },
   {
     name: "FastAPI",
@@ -127,62 +158,69 @@ export const skills = [
 export const projects = [
   {
     id: 1,
+    title: "Africans' Kitchen",
+    cat: "Web Design",
+    url: "https://africans-kitchen.vercel.app/",
+    img: kitchen,
+  },
+  {
+    id: 2,
     title: "Benzoll Supportive Desk",
     cat: "Web Design",
     url: "https://benzoll-frontend.onrender.com",
     img: benzoll,
   },
   {
-    id: 2,
+    id: 3,
     title: "Contact Saving App",
     cat: "Application For Andriod and Web ",
     url: "https://frontend-contact.onrender.com",
     img: contact,
   },
   {
-    id: 3,
+    id: 4,
     title: "teeWears",
     cat: "Web Design",
     url: "https://ecommerce1-orpin.vercel.app/",
     img: Ecommerce1,
   },
   {
-    id: 4,
+    id: 5,
     title: "ABC Homes and Properties",
     cat: "Web Design",
     url: "https://homes-and-properties.vercel.app/",
     img: Homes,
   }, 
   {
-    id: 5,
+    id: 6,
     title: "Github User Fetcher",
     cat: "Application For Andriod and Web ",
     url: "https://github-fetcher-nine.vercel.app/",
     img: Github2,
   },
   {
-    id: 6,
+    id: 7,
     title: "Device Management Panel",
     cat: "Application For Web ",
     url: "https://device-management-panel.vercel.app/",
     img: device,
   },
   {
-    id: 7,
+    id: 8,
     title: "Video Player",
     cat: "Application For Andriod and Web ",
     url: "https://videoplayer-theta-lime.vercel.app/",
     img: video,
   },
   {
-    id: 8,
+    id: 9,
     title: "My Portfolio",
     cat: "Web Design",
     url: "",
     img: portfolio,
   },
   {
-    id: 9,
+    id: 10,
     title: "Loan Calculator",
     cat: "Application For Andriod and Web",
     url: "https://loan-calculator-rouge.vercel.app/",

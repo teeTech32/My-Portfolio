@@ -125,7 +125,7 @@ export const skills = [
   },
   {
     name: "BootstrapCSS",
-    value: 60
+    value: 60,
     icon: bootstrap,
   },
   {
@@ -145,7 +145,7 @@ export const skills = [
   },
    {
     name: "PostgreSQL",
-    value: 68
+    value: 68,
     icon: postgres,
   },
   {

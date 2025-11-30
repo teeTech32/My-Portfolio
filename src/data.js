@@ -6,6 +6,7 @@ import FastAPI from "./assets/FastAPI.svg";
 import Reactjs from "./assets/reactjs.svg";
 import Github2 from "./assets/Github2.jpg";
 import TailwindCSS from "./assets/tailwindcss.svg"
+import Typescript from "./assets/typescript-svgrepo-com.svg"
 import bootstrap from "./assets/bootstrap-svgrepo-com.svg";
 import jira from "./assets/jira-1.svg";
 import postman from "./assets/postman.svg";
@@ -41,6 +42,10 @@ export const tools = [
   {
     name: "JavaScript",
     icon: Javascript,
+  },
+  {
+    name: "TypeScript",
+    icon: Typescript,
   },
   {
     name: "HTML5",

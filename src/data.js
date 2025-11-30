@@ -7,7 +7,7 @@ import Reactjs from "./assets/reactjs.svg";
 import Github2 from "./assets/Github2.jpg";
 import TailwindCSS from "./assets/tailwindcss.svg"
 import bootstrap from "./assets/bootstrap-svgrepo-com.svg";
-import jira from "./assets/jira-svgrepo-com.svg";
+import jira from "./assets/jira-1.svg";
 import postman from "./assets/postman.svg";
 import slack from "./assets/slack-new-logo-logo-svgrepo-com.svg";
 import aws from "./assets/aws-svgrepo-com.svg";

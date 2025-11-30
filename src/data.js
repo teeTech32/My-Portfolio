@@ -7,6 +7,7 @@ import Reactjs from "./assets/reactjs.svg";
 import Github2 from "./assets/Github2.jpg";
 import TailwindCSS from "./assets/tailwindcss.svg"
 import bootstrap from "./assets/bootstrap-svgrepo-com.svg";
+import slack from "./assets/slack-new-logo-logo-svgrepo-com.svg";
 import aws from "./assets/aws-svgrepo-com.svg";
 import docker from "./assets/docker-svgrepo-com (1).svg";
 import firebase from "./assets/firebase-svgrepo-com.svg";
@@ -94,6 +95,10 @@ export const tools = [
    {
     name: "Vite",
     icon:vite,
+  },
+  {
+    name: "Slack",
+    icon:slack,
   },
 ];
 

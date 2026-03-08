@@ -29,6 +29,7 @@ import benzoll from './assets/benzoll.jpg'
 import kitchen from './assets/Kitchen.jpg'
 import nextjs from './assets/next-js.svg'
 import nodejs from './assets/nodejs-icon.svg'
+import snaarp from './assets/snaarp2,jpg'
 
 export const tools = [
   {
@@ -185,62 +186,69 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Analytic Data Dashboard",
+    cat: "Application For Andriod and Web",
+    url: "https://snaarp-assessment-pink.vercel.app/",
+    img: snaarp,
+  },
+  {
+    id: 3,
     title: "Benzoll Supportive Desk",
     cat: "Web Design",
     url: "https://benzoll-frontend.onrender.com",
     img: benzoll,
   },
   {
-    id: 3,
+    id: 4,
     title: "Contact Saving App",
     cat: "Application For Andriod and Web ",
     url: "https://frontend-contact.onrender.com",
     img: contact,
   },
   {
-    id: 4,
+    id: 5,
     title: "teeWears",
     cat: "Web Design",
     url: "https://ecommerce1-orpin.vercel.app/",
     img: Ecommerce1,
   },
   {
-    id: 5,
+    id: 6,
     title: "ABC Homes and Properties",
     cat: "Web Design",
     url: "https://homes-and-properties.vercel.app/",
     img: Homes,
   }, 
   {
-    id: 6,
+    id: 7,
     title: "Github User Fetcher",
     cat: "Application For Andriod and Web ",
     url: "https://github-fetcher-nine.vercel.app/",
     img: Github2,
   },
   {
-    id: 7,
+    id: 8,
     title: "Device Management Panel",
     cat: "Application For Web ",
     url: "https://device-management-panel.vercel.app/",
     img: device,
   },
   {
-    id: 8,
+    id: 9,
     title: "Video Player",
     cat: "Application For Andriod and Web ",
     url: "https://videoplayer-theta-lime.vercel.app/",
     img: video,
   },
   {
-    id: 9,
+    id: 10,
     title: "My Portfolio",
     cat: "Web Design",
     url: "",
     img: portfolio,
   },
   {
-    id: 10,
+    id: 11,
     title: "Loan Calculator",
     cat: "Application For Andriod and Web",
     url: "https://loan-calculator-rouge.vercel.app/",

@@ -29,7 +29,7 @@ import benzoll from './assets/benzoll.jpg'
 import kitchen from './assets/Kitchen.jpg'
 import nextjs from './assets/next-js.svg'
 import nodejs from './assets/nodejs-icon.svg'
-import snaarp from './assets/snaarp2,jpg'
+import snaarp from './assets/snaarp2.jpg'
 
 export const tools = [
   {
